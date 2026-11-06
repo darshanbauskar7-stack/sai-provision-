@@ -1,0 +1,6 @@
+{
+  "name": "Sai Provision and General Stores",
+  "description": "Premium digital storefront for Sai Provision and General Stores in Gaytri Nagar, Snehal Colony, Jalgaon. Browse groceries, create WhatsApp kirana orders, check UPI payment options and store timings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
